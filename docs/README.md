@@ -33,4 +33,4 @@ To rebuild the report and replay from the raw file, run `python3 scripts/build.p
 
 ## Assets
 
-The Seer wordmark belongs to Seer. Geist is bundled under the [SIL Open Font License](../assets/geist-OFL.txt). No open-source license for the report, data, or proprietary strategy is assigned by this private preparation.
+The Seer wordmark belongs to Seer. Geist is bundled under the [SIL Open Font License](../assets/geist-OFL.txt). No open-source license for the report, data, or proprietary strategy is assigned by this release.
